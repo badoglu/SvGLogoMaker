@@ -1,0 +1,16 @@
+{
+  "name": "svg-maker",
+  "version": "1.0.0",
+  "description": "Svg Logo Maker App",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "samurai",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "jest": "^29.6.4"
+  },
+  "type": "module"
+}
